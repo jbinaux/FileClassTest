@@ -1,0 +1,3 @@
+12:bob:moranne
+7:bruce:wayne
+1:marie:curie
