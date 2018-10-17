@@ -1,4 +1,4 @@
-package TP2;
+package tp2;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
